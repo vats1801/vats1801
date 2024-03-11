@@ -28,5 +28,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vats1801&show_icons=true&locale=en&layout=compact" alt="vats1801" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vats1801&show_icons=true&locale=en" alt="vats1801" /></p>
 
+![vats1801's Stats](https://github-readme-stats.vercel.app/api?username=vats1801&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vats1801&" alt="vats1801" /></p>
 
