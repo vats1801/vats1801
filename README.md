@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu vats</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 
 
 - 🔭 I’m currently working at **World fastest growing Digital good's marketplace**
