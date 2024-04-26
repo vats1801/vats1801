@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Artificial Intelligence**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Software Developement**
 
 - 📫 How to reach me **vats.dev.18@gmail.com**
 
